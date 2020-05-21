@@ -5,3 +5,5 @@ import matplotlib.pyplot as plt
 
 data  = keras.datasets.fashion_mnist 
 print(data)
+
+print("the world is insane")
